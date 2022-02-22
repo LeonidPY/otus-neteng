@@ -1,7 +1,7 @@
 ##Задание: настроить "роутер на палочке" и Inter-VLAN маршрутизацию.
 
 Топология в EVE-NG
-(https://github.com/lupus23ua/otus-neteng/blob/main/labs/02%20VLAN/LAB02-EVE-TOPO.png)
+[](https://github.com/lupus23ua/otus-neteng/blob/main/labs/02%20VLAN/LAB02-EVE-TOPO.png)
 
 Команды для настройки:
 ```
